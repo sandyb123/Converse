@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[NL-EN:Visa:11042923]]>
+    </line>
+    <line>
+      <![CDATA[NL-EN:Master:11042925]]>
+    </line>
+    <line>
+      <![CDATA[NL-EN:Amex:11042926]]>
+    </line>
+    <line>
+      <![CDATA[NL-EN:Paypal:11042927]]>
+    </line>
+    <line>
+      <![CDATA[PT-EN:Visa:11042928]]>
+    </line>
+    <line>
+      <![CDATA[PT-EN:Master:11042929]]>
+    </line>
+    <line>
+      <![CDATA[PT-EN:Amex:11042930]]>
+    </line>
+    <line>
+      <![CDATA[PT-EN:Paypal:11042931]]>
+    </line>
+    <line>
+      <![CDATA[DE-EN:Visa:11042932]]>
+    </line>
+    <line>
+      <![CDATA[DE-EN:Master:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='checkout-button button']"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=xpath, value=//button[@class='checkout-button button']}]]>
+    </line>
+    <line>
+      <![CDATA[DE-DE:Visa:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='checkout-button button']"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=xpath, value=//button[@class='checkout-button button']}]]>
+    </line>
+    <line>
+      <![CDATA[BE-EN:Visa:11042933]]>
+    </line>
+    <line>
+      <![CDATA[BE-EN:Master:11042936]]>
+    </line>
+    <line>
+      <![CDATA[BE-EN:Amex:11042937]]>
+    </line>
+    <line>
+      <![CDATA[BE-EN:Paypal:11042940]]>
+    </line>
+    <line>
+      <![CDATA[BE-FR:Visa:11042941]]>
+    </line>
+    <line>
+      <![CDATA[BE-FR:Master:11042942]]>
+    </line>
+    <line>
+      <![CDATA[BE-FR:Amex:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='checkout-button button']"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=xpath, value=//button[@class='checkout-button button']}]]>
+    </line>
+    <line>
+      <![CDATA[BE-NL:Visa:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='checkout-button button']"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=xpath, value=//button[@class='checkout-button button']}]]>
+    </line>
+    <line>
+      <![CDATA[DK-EN:Visa:11042944]]>
+    </line>
+    <line>
+      <![CDATA[DK-EN:Master:11042946]]>
+    </line>
+    <line>
+      <![CDATA[DK-EN:Amex:11042948]]>
+    </line>
+    <line>
+      <![CDATA[DK-EN:Paypal:unknown error: Element <button id="add-to-cart" type="submit" title="Add to Bag" value="Add to Bag" class="add-to-cart icon-add-to-bag center-btn" <?xml="" version="1.0" encoding="UTF-8" ?="">...</button> is not clickable at point (1073, 531). Other element would receive the click: <div class="loader-bg"></div>
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4]]>
+    </line>
+    <line>
+      <![CDATA[ES-ES:Visa:11042949]]>
+    </line>
+    <line>
+      <![CDATA[ES-ES:Master:11042950]]>
+    </line>
+    <line>
+      <![CDATA[ES-ES:Amex:11042951]]>
+    </line>
+    <line>
+      <![CDATA[ES-ES:Paypal:11042953]]>
+    </line>
+    <line>
+      <![CDATA[ES-EN:Visa:11042954]]>
+    </line>
+    <line>
+      <![CDATA[ES-EN:Master:11042956]]>
+    </line>
+    <line>
+      <![CDATA[ES-EN:Amex:11042958]]>
+    </line>
+    <line>
+      <![CDATA[ES-EN:Paypal:11042959]]>
+    </line>
+    <line>
+      <![CDATA[FI-EN:Visa:11042961]]>
+    </line>
+    <line>
+      <![CDATA[FI-EN:Master:11042963]]>
+    </line>
+    <line>
+      <![CDATA[FI-EN:Amex:11042964]]>
+    </line>
+    <line>
+      <![CDATA[FI-EN:Paypal:11042965]]>
+    </line>
+    <line>
+      <![CDATA[FR-FR:Visa:11042966]]>
+    </line>
+    <line>
+      <![CDATA[FR-FR:Master:no such element: Unable to locate element: {"method":"xpath","selector":"//input[contains(@id,'firstName')]"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=xpath, value=//input[contains(@id,'firstName')]}]]>
+    </line>
+    <line>
+      <![CDATA[FR-EN:Visa:no such element: Unable to locate element: {"method":"id","selector":"sizes"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=id, value=sizes}]]>
+    </line>
+    <line>
+      <![CDATA[UK-EN:Visa:no such element: Unable to locate element: {"method":"id","selector":"sizes"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=id, value=sizes}]]>
+    </line>
+    <line>
+      <![CDATA[IE-EN:Visa:11042969]]>
+    </line>
+    <line>
+      <![CDATA[IE-EN:Master:11042970]]>
+    </line>
+    <line>
+      <![CDATA[IE-EN:Amex:11042972]]>
+    </line>
+    <line>
+      <![CDATA[IE-EN:Paypal:11042974]]>
+    </line>
+    <line>
+      <![CDATA[IT-IT:Visa:11042976]]>
+    </line>
+    <line>
+      <![CDATA[IT-IT:Master:11042977]]>
+    </line>
+    <line>
+      <![CDATA[IT-IT:Amex:11042978]]>
+    </line>
+    <line>
+      <![CDATA[IT-IT:Paypal:11042981]]>
+    </line>
+    <line>
+      <![CDATA[IT-EN:Visa:11042983]]>
+    </line>
+    <line>
+      <![CDATA[IT-EN:Master:11042984]]>
+    </line>
+    <line>
+      <![CDATA[IT-EN:Amex:11042987]]>
+    </line>
+    <line>
+      <![CDATA[IT-EN:Paypal:11042988]]>
+    </line>
+    <line>
+      <![CDATA[LU-FR:Visa:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='checkout-button button']"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=xpath, value=//button[@class='checkout-button button']}]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7675274" started-at="2019-06-25T10:09:07Z" finished-at="2019-06-25T12:17:02Z">
+    <groups>
+    </groups>
+    <test name="chromeTest" duration-ms="7675274" started-at="2019-06-25T10:09:07Z" finished-at="2019-06-25T12:17:02Z">
+      <class name="com.pc.functionalities.TestCase">
+        <test-method status="PASS" signature="selectBrowser(java.lang.String)[pri:0, instance:com.pc.functionalities.TestCase@9b21bd3]" name="selectBrowser" is-config="true" duration-ms="4394" started-at="2019-06-25T10:09:07Z" finished-at="2019-06-25T10:09:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBrowser -->
+        <test-method status="PASS" signature="orderPlacementEU()[pri:1, instance:com.pc.functionalities.TestCase@9b21bd3]" name="orderPlacementEU" duration-ms="7670838" started-at="2019-06-25T10:09:11Z" finished-at="2019-06-25T12:17:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[NL-EN:Visa:11042923]]>
+            </line>
+            <line>
+              <![CDATA[NL-EN:Master:11042925]]>
+            </line>
+            <line>
+              <![CDATA[NL-EN:Amex:11042926]]>
+            </line>
+            <line>
+              <![CDATA[NL-EN:Paypal:11042927]]>
+            </line>
+            <line>
+              <![CDATA[PT-EN:Visa:11042928]]>
+            </line>
+            <line>
+              <![CDATA[PT-EN:Master:11042929]]>
+            </line>
+            <line>
+              <![CDATA[PT-EN:Amex:11042930]]>
+            </line>
+            <line>
+              <![CDATA[PT-EN:Paypal:11042931]]>
+            </line>
+            <line>
+              <![CDATA[DE-EN:Visa:11042932]]>
+            </line>
+            <line>
+              <![CDATA[DE-EN:Master:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='checkout-button button']"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=xpath, value=//button[@class='checkout-button button']}]]>
+            </line>
+            <line>
+              <![CDATA[DE-DE:Visa:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='checkout-button button']"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=xpath, value=//button[@class='checkout-button button']}]]>
+            </line>
+            <line>
+              <![CDATA[BE-EN:Visa:11042933]]>
+            </line>
+            <line>
+              <![CDATA[BE-EN:Master:11042936]]>
+            </line>
+            <line>
+              <![CDATA[BE-EN:Amex:11042937]]>
+            </line>
+            <line>
+              <![CDATA[BE-EN:Paypal:11042940]]>
+            </line>
+            <line>
+              <![CDATA[BE-FR:Visa:11042941]]>
+            </line>
+            <line>
+              <![CDATA[BE-FR:Master:11042942]]>
+            </line>
+            <line>
+              <![CDATA[BE-FR:Amex:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='checkout-button button']"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=xpath, value=//button[@class='checkout-button button']}]]>
+            </line>
+            <line>
+              <![CDATA[BE-NL:Visa:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='checkout-button button']"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=xpath, value=//button[@class='checkout-button button']}]]>
+            </line>
+            <line>
+              <![CDATA[DK-EN:Visa:11042944]]>
+            </line>
+            <line>
+              <![CDATA[DK-EN:Master:11042946]]>
+            </line>
+            <line>
+              <![CDATA[DK-EN:Amex:11042948]]>
+            </line>
+            <line>
+              <![CDATA[DK-EN:Paypal:unknown error: Element <button id="add-to-cart" type="submit" title="Add to Bag" value="Add to Bag" class="add-to-cart icon-add-to-bag center-btn" <?xml="" version="1.0" encoding="UTF-8" ?="">...</button> is not clickable at point (1073, 531). Other element would receive the click: <div class="loader-bg"></div>
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4]]>
+            </line>
+            <line>
+              <![CDATA[ES-ES:Visa:11042949]]>
+            </line>
+            <line>
+              <![CDATA[ES-ES:Master:11042950]]>
+            </line>
+            <line>
+              <![CDATA[ES-ES:Amex:11042951]]>
+            </line>
+            <line>
+              <![CDATA[ES-ES:Paypal:11042953]]>
+            </line>
+            <line>
+              <![CDATA[ES-EN:Visa:11042954]]>
+            </line>
+            <line>
+              <![CDATA[ES-EN:Master:11042956]]>
+            </line>
+            <line>
+              <![CDATA[ES-EN:Amex:11042958]]>
+            </line>
+            <line>
+              <![CDATA[ES-EN:Paypal:11042959]]>
+            </line>
+            <line>
+              <![CDATA[FI-EN:Visa:11042961]]>
+            </line>
+            <line>
+              <![CDATA[FI-EN:Master:11042963]]>
+            </line>
+            <line>
+              <![CDATA[FI-EN:Amex:11042964]]>
+            </line>
+            <line>
+              <![CDATA[FI-EN:Paypal:11042965]]>
+            </line>
+            <line>
+              <![CDATA[FR-FR:Visa:11042966]]>
+            </line>
+            <line>
+              <![CDATA[FR-FR:Master:no such element: Unable to locate element: {"method":"xpath","selector":"//input[contains(@id,'firstName')]"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=xpath, value=//input[contains(@id,'firstName')]}]]>
+            </line>
+            <line>
+              <![CDATA[FR-EN:Visa:no such element: Unable to locate element: {"method":"id","selector":"sizes"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=id, value=sizes}]]>
+            </line>
+            <line>
+              <![CDATA[UK-EN:Visa:no such element: Unable to locate element: {"method":"id","selector":"sizes"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=id, value=sizes}]]>
+            </line>
+            <line>
+              <![CDATA[IE-EN:Visa:11042969]]>
+            </line>
+            <line>
+              <![CDATA[IE-EN:Master:11042970]]>
+            </line>
+            <line>
+              <![CDATA[IE-EN:Amex:11042972]]>
+            </line>
+            <line>
+              <![CDATA[IE-EN:Paypal:11042974]]>
+            </line>
+            <line>
+              <![CDATA[IT-IT:Visa:11042976]]>
+            </line>
+            <line>
+              <![CDATA[IT-IT:Master:11042977]]>
+            </line>
+            <line>
+              <![CDATA[IT-IT:Amex:11042978]]>
+            </line>
+            <line>
+              <![CDATA[IT-IT:Paypal:11042981]]>
+            </line>
+            <line>
+              <![CDATA[IT-EN:Visa:11042983]]>
+            </line>
+            <line>
+              <![CDATA[IT-EN:Master:11042984]]>
+            </line>
+            <line>
+              <![CDATA[IT-EN:Amex:11042987]]>
+            </line>
+            <line>
+              <![CDATA[IT-EN:Paypal:11042988]]>
+            </line>
+            <line>
+              <![CDATA[LU-FR:Visa:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='checkout-button button']"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BNWINBGDELLL034', ip: '10.92.16.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\SANDEE~1.BHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62980}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7e915b2bbc09c67617de38fcfe0c6fe4
+*** Element info: {Using=xpath, value=//button[@class='checkout-button button']}]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- orderPlacementEU -->
+      </class> <!-- com.pc.functionalities.TestCase -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
